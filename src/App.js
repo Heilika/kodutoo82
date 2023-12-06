@@ -22,7 +22,7 @@ function App() {
   return (
     <HashRouter>
       <Routes>
-        <Route path="Heilika/kodutoo8/" element={<Layout />}>
+        <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="news/:newsId" element={<News />} />
           <Route path="contact" element={<Contact />} />
