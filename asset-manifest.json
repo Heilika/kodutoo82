@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kodutoo82/static/css/main.9225a5d1.css",
-    "main.js": "/kodutoo82/static/js/main.6374e94c.js",
+    "main.js": "/kodutoo82/static/js/main.aa805f04.js",
     "static/js/787.3b7bf0e7.chunk.js": "/kodutoo82/static/js/787.3b7bf0e7.chunk.js",
     "index.html": "/kodutoo82/index.html",
     "main.9225a5d1.css.map": "/kodutoo82/static/css/main.9225a5d1.css.map",
-    "main.6374e94c.js.map": "/kodutoo82/static/js/main.6374e94c.js.map",
+    "main.aa805f04.js.map": "/kodutoo82/static/js/main.aa805f04.js.map",
     "787.3b7bf0e7.chunk.js.map": "/kodutoo82/static/js/787.3b7bf0e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9225a5d1.css",
-    "static/js/main.6374e94c.js"
+    "static/js/main.aa805f04.js"
   ]
 }
